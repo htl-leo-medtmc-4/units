@@ -7,6 +7,16 @@
 - REST requests
 - JSON encoding and decoding
 
+### How to Get a Grade
+#### Winter Term
+- (Home) Exercises are purely for training purpose
+- 3 to 5 Quizzes - related to reading assignments; will be averaged and count 50 % of your grade
+- 2 tests; will be averaged and count 50 % of your grade
+- Voluntary end term exam to fix unclear grading situations
+
+#### Summer Term
+The summer term is dedicated to the [Specialization](https://leowiki.htl-leonding.ac.at/doku.php?id=class:medt_spezialisierung) where you can choose between three different topics. Details can be found on [LeoWiki](https://leowiki.htl-leonding.ac.at/doku.php?id=class:medt_spezialisierung).
+
 ## Unit 1 - Hello World
 - Mac keys, like [], {}, |, \, ...
 - New project in XCode
