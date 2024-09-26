@@ -25,11 +25,15 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Add a button which prints a text
 
 ## Unit 2 - Swift Basics Part I
+### Content
 - spm: installation and usage
 - Basic statements
 - Control flow
 - structs
 - Functions
+
+### Training Example
+[PrimeNumberLister](https://github.com/htl-leo-medtmc-4/prime-number-lister-starter-code)
 
 ## Unit 3 - A More Exciting Example
 ### Content
