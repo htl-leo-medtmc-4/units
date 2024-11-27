@@ -23,6 +23,7 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Explain basic concepts in XCode: Code, Preview, Properties, ...
 - Walkthrough code from `HelloWorld.swift`
 - Add a button which prints a text
+- https://developer.apple.com/tutorials/develop-in-swift/explore-xcode-conclusion
 
 ## Unit 2 - Swift Basics Part I
 ### Content
