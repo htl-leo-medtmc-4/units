@@ -56,3 +56,8 @@ Address Form
 - Optionals
 - Protocols
 - Stored and computed properties
+
+## Unit 5 - Asynchronous Programming
+- Async await
+- Grand central dispatch
+- Closures take over data from its surrounding scope

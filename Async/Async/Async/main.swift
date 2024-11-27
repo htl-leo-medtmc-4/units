@@ -7,5 +7,11 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print("aldkfj")
+func demo() {
+    let queue = DispatchQueue(label: "myqueue")
+    queue.async {
+        print("We are in the queue")
+    }
+}
+demo()
