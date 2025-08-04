@@ -23,42 +23,66 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Explain basic concepts in XCode: Code, Preview, Properties, ...
 - Walkthrough code from `HelloWorld.swift`
 - Add a button which prints a text
-- https://developer.apple.com/tutorials/develop-in-swift/explore-xcode-conclusion
+- [Swift Hello World](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
 
 ## Unit 2 - Swift Basics Part I
 ### Content
 - spm: installation and usage
 - Basic statements
+- Strings
 - Control flow
-- structs
+- Structs
 - Functions
+- Enums
+- Unit tests
 
-### Training Example
-[PrimeNumberLister](https://github.com/htl-leo-medtmc-4/prime-number-lister-starter-code)
+### Training Examples
+- [PrimeNumberLister](https://github.com/htl-leo-medtmc-4/prime-number-lister-starter-code)
+- [BeBeTranslator](https://github.com/htl-leo-medtmc-4/be-be-translator-starter-code)
 
-## Unit 3 - A More Exciting Example
+## Unit 3 - Creating and Combining Views
 ### Content
 - VStack
 - Hstack
-- Button
 - Spacer
 - Divider
-- Input field
 - Preview revisited: Customize with data for testing
 
-The [Landmarks Tutorial](https://developer.apple.com/tutorials/swiftui).
+Section 1 of the [Landmarks Tutorial](https://developer.apple.com/tutorials/swiftui).
 
 ### Graded Exercise
 Address Form
 
 ## Unit 4 - Swift Basics Part II
+### Content
 - Closures
-- Enums
-- Optionals
-- Protocols
 - Stored and computed properties
 
-## Unit 5 - Asynchronous Programming
+### Training Example
+
+## Unit 5 -  Navigation Stack and Codable
+Landmark tutorial finished
+
+## Unit 6 - Not knowing when to do
+- Button
+- Input field
+- Navigation stack
+
+## Unit 6 - Swift Basics Part III
+### Content
+- Optionals
+- Protocols
+
+### Training Examples
+
+## Unit 7 - MVVM Architecture
+- Asynchronous access to be avoided
+- Model is only accessed in the main thread
+- `.task` is equivalent to `viewDidLoad`
+
+## Unit 8 - Asynchronous Programming
 - Async await
 - Grand central dispatch
 - Closures take over data from its surrounding scope
+
+## Unit 9 - Drawing Pane
