@@ -24,7 +24,7 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Walkthrough code from `HelloWorld.swift`
 - Add a button which prints a text
 - [Swift Hello World](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
-- spm: installation and usage
+- spm: installation and usage (follow these steps: https://www.swift.org/install/windows/)
 
 ## Unit 2 - Swift Basics Part I
 ### Content
