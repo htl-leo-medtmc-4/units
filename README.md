@@ -1,6 +1,6 @@
 # Mobile Computing - SWIFT
 
-## Unit 1 - Organizational
+## Unit 0 - Organizational
 ### Syllabus
 - Swift
 - SwiftUI
@@ -21,9 +21,8 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Mac keys, like [], {}, |, \, ...
 - New project in XCode
 - Explain basic concepts in XCode: Code, Preview, Properties, ...
-- Walkthrough code from `HelloWorld.swift`
+- Walkthrough code from [Leodoro Unit 1] (https://github.com/htl-leo-medtmc-4/leodoro-unit-1)
 - Add a button which prints a text
-- [Swift Hello World](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
 - spm: installation and usage (follow these steps: https://www.swift.org/install/windows/)
 
 ## Unit 2 - Swift Basics Part I
@@ -44,16 +43,11 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 - Functions
 - UnitTest
 
-## Unit 4 - Swift UI Basics Part I
+## Unit 4 - Swift UI Basics Part II
 ### Content
-- VStack
-- Hstack
-- Spacer
-- Divider
-- Preview revisited: Customize with data for testing
-- recreate well known App UIs with SwiftUI
-
-Section 1 of the [Landmarks Tutorial](https://developer.apple.com/tutorials/swiftui).
+- Create complex UIs
+- Tabs
+- [Leodoro Unit 2] (https://github.com/htl-leo-medtmc-4/leodoro-unit-2)
 
 ### Graded Exercise
 Address Form
@@ -63,43 +57,44 @@ Address Form
 - revisit Swift UI Basics
 - Codable
 - List
+- [Leodoro Unit 3] (https://github.com/htl-leo-medtmc-4/leodoro-unit-3)
 
 ### Training Example
 
-## Unit 6 
+## Unit 6 - Navigation
 ### Content
-- State
-- Environment
+- Navigation: connect a Detail View to your List
+- [Leodoro Unit 4] (https://github.com/htl-leo-medtmc-4/leodoro-unit-4)
 
 ## Unit 7
 ### Content
-- Button
-- Input field
-- Navigation stack
+- Sheets
+- ViewModels
+- Timer
+- [Leodoro Unit 5] (https://github.com/htl-leo-medtmc-4/leodoro-unit-5)
 
-## Unit 8 - Swift Basics Part III (Console)
+## Unit 8
 ### Content
-- Closures
-- Stored and computed properties 
+- Optionals
+- Lottie Animations
+- [Leodoro Unit 6] (https://github.com/htl-leo-medtmc-4/leodoro-unit-6)
 
-### Training Examples
+## Unit 9 
+### Content
+- SwiftData?
+- Async await
 
-## Unit 9 - Swift Basics Part III (Xcode)
+## Unit 10 - Swift Basics
 ### Content
 - Closures
 - Stored and computed properties
 
-## Unit 10 - Swift Basics Part VI (Console)
+## Unit 11 - Swift Basics
 ### Content
 - Optionals
 - Protocols
 
-## Unit 11 - Swift Basics Part VI (Xcode)
-### Content
-- Optionals
-- Protocols
-
-## Unit 12 - Swift Basics Part V
+## Unit 12 - Swift Basics
 ### Content
 - Extensions
 
