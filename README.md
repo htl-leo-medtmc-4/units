@@ -18,12 +18,50 @@
 The summer term is dedicated to the [Specialization](https://leowiki.htl-leonding.ac.at/doku.php?id=class:medt_spezialisierung) where you can choose between three different topics. Details can be found on [LeoWiki](https://leowiki.htl-leonding.ac.at/doku.php?id=class:medt_spezialisierung).
 
 ## Unit 1 - Hello World
-- Mac keys, like [], {}, |, \, ...
-- New project in XCode
-- Explain basic concepts in XCode: Code, Preview, Properties, ...
+### Content
+- Introducing Mac keys, like [], {}, |, \, ...
+- Creating a new project in XCode
+- Basic concepts in Xcode: Code, Preview, Properties, etc.
 - Walkthrough code from [Leodoro Unit 1] (https://github.com/htl-leo-medtmc-4/leodoro-unit-1)
 - Add a button which prints a text
-- spm: installation and usage (follow these steps: https://www.swift.org/install/windows/)
+
+### Exercise
+Install Swift on your computer. Swift is available on macOS, Linux and Windows. Although one cannot make user interfaces with SwiftUI on platforms other than macOS it is possible to write command line tools, server applications, etc. also on the other platforms.
+
+### Installation on macOS
+If you have a MacBook you simply install Xcode from the AppStore and you are done.
+
+### Installation on Linux
+Follow the instructions on https://www.swift.org/install/linux/. 
+
+### Installation on Windows
+You have to install Visual Studio packages and other stuff before you can install Swift. If you do not have VS installed it is worth considering to start an Ubuntu shell in WSL and follow the steps for installing Swift on Linux as given above.
+
+If you have VS installed you can give it and follow the instructions given on https://www.swift.org/install/windows/
+
+### Test your Installation
+In a terminal type in the following commands. Your system should response similarly to the responses given below. Especially after `swift run` it should answer with `Hello, world!`.
+```bash
+❯ mkdir TestInstallation
+❯ cd TestInstallation
+❯ swift package init --name TestInstallation --type executable
+Creating executable package: TestInstallation
+Creating Package.swift
+Creating .gitignore
+Creating Sources
+Creating Sources/TestInstallation/TestInstallation.swift
+❯ swift build
+Building for debugging...
+[8/8] Applying TestInstallation
+Build complete! (0.56s)
+❯ swift run
+[1/1] Planning build
+Building for debugging...
+[1/1] Write swift-version--58304C5D6DBC2206.txt
+Build of product 'TestInstallation' complete! (0.08s)
+Hello, world!
+~/Documents/tmp/TestInstallation ❯
+```
 
 ## Unit 2 - Swift Basics Part I
 ### Content
@@ -47,7 +85,7 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 ### Content
 - Create complex UIs
 - Tabs
-- [Leodoro Unit 2] (https://github.com/htl-leo-medtmc-4/leodoro-unit-2)
+- [Leodoro Unit 2](https://github.com/htl-leo-medtmc-4/leodoro-unit-2)
 
 ### Graded Exercise
 Address Form
@@ -57,7 +95,7 @@ Address Form
 - revisit Swift UI Basics
 - Codable
 - List
-- [Leodoro Unit 3] (https://github.com/htl-leo-medtmc-4/leodoro-unit-3)
+- [Leodoro Unit 3](https://github.com/htl-leo-medtmc-4/leodoro-unit-3)
 
 ### Training Example
 
@@ -71,13 +109,13 @@ Address Form
 - Sheets
 - ViewModels
 - Timer
-- [Leodoro Unit 5] (https://github.com/htl-leo-medtmc-4/leodoro-unit-5)
+- [Leodoro Unit 5](https://github.com/htl-leo-medtmc-4/leodoro-unit-5)
 
 ## Unit 8
 ### Content
 - Optionals
 - Lottie Animations
-- [Leodoro Unit 6] (https://github.com/htl-leo-medtmc-4/leodoro-unit-6)
+- [Leodoro Unit 6](https://github.com/htl-leo-medtmc-4/leodoro-unit-6)
 
 ## Unit 9 
 ### Content
