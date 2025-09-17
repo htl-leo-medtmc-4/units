@@ -19,10 +19,10 @@ The summer term is dedicated to the [Specialization](https://leowiki.htl-leondin
 
 ## Unit 1 - Hello World
 ### Content
-- Introducing Mac keys, like [], {}, |, \, ...
+- Introducing Mac keys, like `[], {}, |, \`, ...
 - Creating a new project in XCode
 - Basic concepts in Xcode: Code, Preview, Properties, etc.
-- Walkthrough code from [Leodoro Unit 1] (https://github.com/htl-leo-medtmc-4/leodoro-unit-1)
+- Walkthrough code from [Leodoro Unit 1](https://github.com/htl-leo-medtmc-4/leodoro-unit-1)
 - Add a button which prints a text
 
 ### Exercise
